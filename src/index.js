@@ -1,2 +1,2 @@
 console.log("index.js")
-console.log("V1")
+console.log("V2")

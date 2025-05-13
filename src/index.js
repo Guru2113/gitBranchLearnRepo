@@ -1,2 +1,2 @@
 console.log("index.js")
-console.log("V3")
+console.log("V3 bug fixed")

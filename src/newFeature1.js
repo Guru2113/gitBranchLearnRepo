@@ -1,2 +1,2 @@
 console.log("newFeature1.js");
-console.log("v2");
+console.log("v3 feature finished");
